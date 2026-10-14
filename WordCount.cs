@@ -11,6 +11,7 @@ namespace async_prograaming
     {
 
 
+        //Anton Chepelev
 
         public async Task<Dictionary<string, int>> CountWordsAsync(string filePath)
         {
